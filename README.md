@@ -27,8 +27,8 @@ It makes you life easier because you don't need to specify any `js` and `css` fi
             ['id' => 1, 'name' => 'Tester1'],
             ['id' => 2, 'name' => 'Tester2']
         ]],
-        './users.phtml' // a template for the data,
-        ./layout/base.phtml' // a layout it's optional 
+        './users.phtml', // a template for the data,
+        './layout/base.phtml' // a layout it's optional 
     );
 
     // render the template using passed variables and wrap its content to a layout
