@@ -6,7 +6,7 @@
 **Tiny/View** separates your business logic from its representation, it means you can store your `view` as a list of 
 separated `.phtml` files and pass there you data keeping you controllers clean.
 
-The package is very fast due to using native `php` inside templates and layouts, yes we don't use
+The package is very small and fast due to using native `php` inside templates and layouts, yes we don't use
 any extra markup language, it's only relies on the php's [alternative syntax](https://www.php.net/control-structures.alternative-syntax)
 
 There are only two main entities: `templates` and `layouts`.
