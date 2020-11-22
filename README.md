@@ -67,7 +67,7 @@ It makes you life easier because you don't need to specify any `js` and `css` fi
 ## View helpers
 
 When it's not enough a pre built functionality or it might be not convenient way to work with templates 
-you can register you own list of helpers (small functions) which will do exactly you want.
+you can register you own list of helpers (small functions) which will do exactly you want. Please read more information in the documentation
 
 
 ## Installation
