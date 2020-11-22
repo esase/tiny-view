@@ -4,7 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/esase/tiny-view/badge.svg?branch=master)](https://coveralls.io/github/esase/tiny-view?branch=master)
 
 **Tiny/View** separates your business logic from its representation, it means you can store your `view` as a list of 
-separated `.phtml` files and pass there you data.
+separated `.phtml` files and pass there you data keep you controllers clean.
 
 The package is very fast due to using native `php` inside templates and layouts, yes we don't use
 any extra markup language, it's only relies on the php's [alternative syntax](https://www.php.net/control-structures.alternative-syntax)
